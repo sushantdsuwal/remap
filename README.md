@@ -39,8 +39,19 @@ you may also want to review its first - [installation guide](https://guides.coco
 `pod install` - run in the ios folder 
 
 ## screenshot
-![](screenshot/ss1.png) - map view
-![](screenshot/ss2.png) - add new place form
-![](screenshot/ss3.png) - list of all place
-![](screenshot/ss4.png) - edit form
-![](screenshot/ss5.png) - map markers with respective name of the place.
+<p>
+    <img src="screenshot/ss1.png" width="220" /> 
+  
+</p>
+<p>
+    <img src="screenshot/ss2.png" width="220" /> 
+</p>
+<p>
+    <img src="screenshot/ss3.png" width="220" /> 
+</p>
+<p>
+    <img src="screenshot/ss4.png" width="220" /> 
+</p>
+<p>
+    <img src="screenshot/ss5.png" width="220" /> 
+</p>
