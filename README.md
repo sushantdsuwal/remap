@@ -37,3 +37,10 @@ The app use CocoaPods package manager to setup the react-native-maps,
 you may also want to review its first - [installation guide](https://guides.cocoapods.org/using/getting-started.html)
 
 `pod install` - run in the ios folder 
+
+## screenshot
+![](screenshot/ss1.png) - map view
+![](screenshot/ss2.png) - add new place form
+![](screenshot/ss3.png) - list of all place
+![](screenshot/ss4.png) - edit form
+![](screenshot/ss5.png) - map markers with respective name of the place.
